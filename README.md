@@ -1,1 +1,1 @@
-Die ist die Anleitung für GIT
+Push zu seinem eigenen Branch damit kein Konflikt verhindern.
